@@ -2,7 +2,7 @@ Dev Snoopy
 ==================
 
 This is a proxy smartcontract that functions as a metadata holder for exsiting transactions from external contracts.
-This project aims to provide a way to track the impact of campaigns created on the NEAR blockchain.
+This project aims to provide a way to track the impact of events created on the NEAR blockchain.
 
 Head over to docs to learn more about the project.
 - [docs](/docs/readme.md)
